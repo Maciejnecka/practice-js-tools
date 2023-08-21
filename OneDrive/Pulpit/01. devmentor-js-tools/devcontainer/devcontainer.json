@@ -1,0 +1,9 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {},
+  "customizations": {
+    "vscode": {
+      "extensions": ["ritwickdey.LiveServer", "ms-vsliveshare.vsliveshare"]
+    }
+  }
+}
